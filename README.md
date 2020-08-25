@@ -5,7 +5,7 @@
 
 ## I'm a Developer!
 
-- hi
+- i can write code
 
 ### Connect with me:
 
