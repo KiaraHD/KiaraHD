@@ -21,11 +21,13 @@
 <img align="left" alt="IntelliJ" width="26px" src="https://simpleicons.org/icons/intellijidea.svg" />
 <img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />
-<img align="left" alt="NodeJS" width="26px" src="https://simpleicons.org/icons/node-dot-js.svg" />
-<img align="left" alt="Angular" width="26px" src="https://simpleicons.org/icons/angular.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
 <img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
+<img align="left" alt="C#" width="26px" src="https://simpleicons.org/icons/csharp.svg" />
+<img align="left" alt="Apache" width="26px" src="https://simpleicons.org/icons/apache.svg" />
+<img align="left" alt="Mysql" width="26px" src="https://simpleicons.org/icons/mysql.svg" />
+<img align="left" alt="Jetbrains" width="26px" src="https://simpleicons.org/icons/jetbrains.svg" />
 
 <br />
 <br />
@@ -38,10 +40,10 @@
 <!--END_SECTION:activity-->
 
 #    Github Stats
-  <img align="left" alt="Langomatisch's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Kiara144p&show_icons=true&hide_border=true" />
+  <img align="left" alt="Kiara's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Kiara144p&show_icons=true&hide_border=true" />
 
 
-[website]: https://bausucht.net
+[website]: https://kiara.dog
 [twitter]: https://twitter.com/Kiara_HD
-[youtube]: https://youtube.com/Kiara_HD
-[instagram]: https://instagram.com/Kiara_HD
+[youtube]: https://youtube.com/Channel/UCF9IoGeQa-AN-BRbcV0xZrA
+[instagram]: https://instagram.com/_Kiara_k_
