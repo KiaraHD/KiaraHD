@@ -45,5 +45,5 @@
 
 [website]: https://kiara.dog
 [twitter]: https://twitter.com/Kiara_HD
-[youtube]: https://youtube.com/Channel/UCF9IoGeQa-AN-BRbcV0xZrA
+[youtube]: https://youtube.com/channel/UCF9IoGeQa-AN-BRbcV0xZrA
 [instagram]: https://instagram.com/_Kiara_k_
