@@ -1,4 +1,4 @@
-## Hi there, I'm [Kiara](https://kiara.dog) 👋
+## Hi there, I'm [Kiara](https://kiara.dog)
 
 [![Website](https://img.shields.io/website?label=kiara.dog&style=for-the-badge&url=https://kiara.dog)](https://kiara.dog)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Kiara_HD?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKiara_HD&screen_name=Kiara_HD)
@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img style="color: white" align="left" alt="kiara.dog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img style="color:white" align="left" alt="kiara.dog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Kiara | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Kiara | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Kiara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -34,7 +34,8 @@
 
 ---
 
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=KiaraHD&theme=react&show_icons=true)
+#    Github Stats
+![Kiara's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiaraHD&theme=react&show_icons=true&count_private=true)
 
 
 [website]: https://kiara.dog
