@@ -35,7 +35,7 @@
 ---
 
 #    Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KiaraHD&theme=dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KiaraHD&theme=react&show_icons=true)
 
 
 [website]: https://kiara.dog
