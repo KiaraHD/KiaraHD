@@ -35,7 +35,7 @@
 ---
 
 #    Github Stats
-  <img align="left" alt="Kiara's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KiaraHD&show_icons=true&hide_border=true" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiara_HD&theme=monokai&show_icons=true)
 
 
 [website]: https://kiara.dog
