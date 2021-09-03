@@ -9,10 +9,12 @@
 
 ### Connect with me:
 
+
+
 [<img style="color:white" align="left" alt="kiara.dog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Kiara | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Kiara | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Kiara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Kiara | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="Kiara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
 <br />
 
@@ -37,8 +39,5 @@
 #    Github Stats
 ![Kiara's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiaraHD&theme=react&show_icons=true&count_private=true)
 
-
-[website]: https://kiara.dog
-[twitter]: https://twitter.com/Kiara_HD
-[youtube]: https://youtube.com/channel/UCF9IoGeQa-AN-BRbcV0xZrA
-[instagram]: https://instagram.com/_Kiara_k_
+#    Most used Languages
+![Kiara's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=kiarahd&show_icons=true&theme=react&locale=en&layout=compact&count_private=true)
