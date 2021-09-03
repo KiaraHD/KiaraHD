@@ -42,7 +42,7 @@
   </p>
 
 #    Github Stats
-![Kiara's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiaraHD&theme=react&show_icons=true&count_private=true)
+![Kiara's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiaraHD&theme={{ctx.theme}} &show_icons=true&count_private=true)
 
 #    Most used Languages
-![Kiara's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=kiarahd&show_icons=true&theme=react&locale=en&layout=compact&count_private=true)
+![Kiara's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=kiarahd&show_icons=true&theme={{ctx.theme}} &locale=en&layout=compact&count_private=true)
