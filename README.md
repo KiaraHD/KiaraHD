@@ -1,13 +1,16 @@
-## Hi there, I'm [Kiara](https://kiara.dog)
+# Hi there, I'm [Kiara](https://kiara.dog)
 
 [![Website](https://img.shields.io/website?label=kiara.dog&style=for-the-badge&url=https://kiara.dog)](https://kiara.dog)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Kiara_HD?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKiara_HD&screen_name=Kiara_HD)
 
-## I'm a Developer!
-
-- i can maybe write code
-
-### Connect with me:
+## About me
+<ul>
+  <li>I'm a Developer from somewhere in Austria!</li>
+  <li>I like to develope stupid programms that nobody needs</li>
+  <li>and lastly, i like dogs</li>
+</ul>  
+  
+## Connect with me:
 
 <p align="left">
 <a href="https://twitter.com/kiara_hd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kiara_hd" height="30" width="40" /></a>
@@ -15,7 +18,7 @@
 <a href="https://www.youtube.com/c/kiara_hd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kiara_hd" height="30" width="40" /></a>
 </p>
 
-### Languages and Tools:
+## Languages and Tools:
 
 </br>
 
@@ -41,8 +44,8 @@
 
   </p>
 
-#    Github Stats
+##    Github Stats
 ![Kiara's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiaraHD&theme=react&show_icons=true&count_private=true)
 
-#    Most used Languages
+##    Most used Languages
 ![Kiara's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=kiarahd&show_icons=true&theme=react&locale=en&layout=compact&count_private=true)
