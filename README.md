@@ -6,7 +6,6 @@
 <ul>
   <li>I'm a Developer from somewhere in Austria!</li>
   <li>I like to develope stupid programms that nobody needs</li>
-  <li>and lastly, i like dogs</li>
 </ul>  
   
 ## Connect with me:
