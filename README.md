@@ -5,7 +5,7 @@
 ## About me
 <ul>
   <li>I'm a Developer from somewhere in Austria!</li>
-  <li>I like to develope stupid programms that nobody needs</li>
+  <li>I like to develop stupid programms that nobody needs</li>
 </ul>  
   
 ## Connect with me:
